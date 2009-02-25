@@ -1,28 +1,20 @@
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
 |dispositivos en exilio|
 |exiled dispositivs|
-a collaborative art deportment
-integrating:Bitnik.org, no2somos+, andres burbano, alejandro duque.
+A Collaborative Art Deportment Integrating:
+!Mediengruppe Bitnik (CH), no2somos+ (CO), DeSentro (BR), andres burbano (CO),  Locus Sonus (FR-CO), Rafael Dörig (CH), MiMoSa (BR).
 
+Keywords: social media, community networks, DIY cult, radioelectric spectrum, collaborative practices, networked sound and video art.
 
-Inspiration arrives from the writings of Gabriel Garcia Marquez (nobel prize YEAR? + which texts?) Such readings motivate a research on ways to integrate the sphere of magical realism as a to get a hold and traceroute other possible ways for crossing wisdoms in our daily networks.
+(THIS GOES ON TOP OF THE EMAIL- NOT HERE-> no intro yet, since i will like to have a bit of feedback from each of the above participants so to know what you will like to work on and not force. say i.e, ricardo ruiz to roll the mimosa when he has or leads a current project that could be more relevant for the case in colombia)
 
+A know.How exchange between (not so) young artists and programmers from Colombia, Brasil, France and Switzerland. Leaving a model to replicate by others if they will or like.
 
-[code names]
--Vibrant Media-
--Media Shed-
--GYOML-
+Developed in 2 workshops that will take place in Colombia. First, in the Tenza valley (el valle de tenza), where we will be hosted by no2somos a collective formed by the artist (from Universidad Nacional de Colombia) Alejandro Araque. The place has been chosen cuase it has a very strong tradition related to the uses of technology for communication, the big antenna trasmitter from Radio Sutatenza was once one of the strongest ones in the planet. It pairs with Radio Beromünster in the Luzern Canton (Switzerland).
 
+In Sutatenza (wikipedia link) we will set up a media production studio where to gather, distribute and most importantly learn together to do the media. We are engaged today into the  digital networks but TV and Radio as we knew them still define the pace in terms building community networks. SOUNDS LIKE TOO ROMANTIC Operation will be supported over network streams of sound and video.
 
-This project aims for an exchange of know.hows between young programmers and artists from Colombia (south america) and Switzerland  (Europe).
-
-Ooperating via network streams, we will set up to gather, distribute and learn together in the time of the digital networks what TV and radio still mean in terms of socio culutural networks.
-
-Conscious that we live in an interconnected world, doing a revision of satellite technology is a must. 
-
-It will be the way to create a festival outside of a festival(readme100 offshoring and nourishing far from its statements, beyond its basic propositions), if elected, we will use the money (500euros) to set up an open call in the L.U.G's (linux user groups) mailing lists and support the free software agents in far away continents.
-
-We will document and edit a text (article) that will reflect the potentialities and drives towards "insurgent" practices, those that intrinsically belong to the essence of network and collide interestingly in a country with a renowned infamous tradition on trafficking and smuggling: Colombia (we will pay close attention to trace ideas related with electronic borders, demilitarized zones and servers, i.p's black holes, replicators, virtual tunnels, etc.)
+Conscious that we live in an interconnected world, doing a revision of satellite technology is a must. (we will pay close attention to trace ideas related with electronic borders, demilitarized zones and servers, i.p's black holes, replicators, virtual tunnels, etc.)
 
 The result of this feedback research will serve to address the following question:
 
@@ -30,10 +22,14 @@ Some part of South America faces its sell-out signing a treaty called TCL, (Trat
 
 Ilegality raises the price of drugs, so in the particular case of cocaine its better to keep them ilegal and avoid talking about them in these TCL treaty, but ironically drugs are the one produce that represents more income to both parts is not a topic to be consider in the tables that define the conditions for this treaty.
 
-
-
 Alejandro Duque (kolumbien)
 Researchs on the topic of smuggling knowledge and ideas accross the networks for a PhD dissertation at http://www.egs.edu , 
 Paying particular attention to the "hacks" that a resourceful mind does to all kinds of new or old techno conceptual devices. 
 (very often we find examples hidden under criminal records, like those of the drug trafficking techniques). 
-A collaborative  to develop a way to interface place, location and trajectory with audiovisual representations...so called "real-time mapping".
+A collaborative venture to develop a way to interface place, location and trajectory with audiovisual representations. "real-time mapping".
+
+[reference]
+-Vibrant Media-
+-Media Shed-
+-GYOML (Grow Your Own Media Lab)-
+
